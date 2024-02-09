@@ -1,0 +1,141 @@
+.aura.main {
+  background: var(--src) center center/100% 100% no-repeat;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+.aura .image2 {
+  bottom: 120px;
+  height: 80px;
+  position: absolute;
+  right: 89px;
+  width: 12px;
+}
+.aura .medium_title1 {
+  align-items: center;
+  color: rgba(255, 255, 255, 0.749);
+  display: flex;
+  font: 900 24px/1.66 "Roboto", Helvetica, Arial, serif;
+  height: 80px;
+  left: 990px;
+  letter-spacing: 7.2px;
+  position: absolute;
+  top: 673.5px;
+  width: 299px;
+}
+.aura .medium_title {
+  align-items: center;
+  color: rgba(255, 255, 255, 0.749);
+  display: flex;
+  font: 900 24px/3.12 "Roboto", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  left: 742.5px;
+  letter-spacing: 7.2px;
+  position: absolute;
+  text-align: center;
+  top: 345px;
+  width: 80px;
+}
+.aura .main_title {
+  align-items: center;
+  color: white;
+  display: flex;
+  font: 900 288px/0.24 "Roboto", Helvetica, Arial, serif;
+  height: 70px;
+  justify-content: center;
+  left: 226px;
+  letter-spacing: 14.4px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.7490196078);
+  top: 505.5px;
+  width: 1468px;
+}
+.aura .image1 {
+  bottom: 59px;
+  height: 146px;
+  left: 74px;
+  position: absolute;
+  width: 34px;
+}
+.aura .highlight {
+  align-items: center;
+  color: white;
+  display: flex;
+  font: 900 18px/4.16 "Roboto", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  letter-spacing: 7.2px;
+  position: absolute;
+  right: 341px;
+  text-align: center;
+  top: 68px;
+  width: 147px;
+}
+.aura .big_title {
+  color: white;
+  display: flex;
+  font: 900 36px/1.25 "Roboto", Helvetica, Arial, serif;
+  height: 45px;
+  justify-content: center;
+  left: 45px;
+  letter-spacing: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  width: 93px;
+}
+.aura .highlight1 {
+  align-items: center;
+  color: white;
+  display: flex;
+  font: 900 18px/4.16 "Roboto", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  letter-spacing: 7.2px;
+  position: absolute;
+  right: 126px;
+  text-align: center;
+  top: 68px;
+  width: 133px;
+}
+.aura .image3 {
+  height: 52px;
+  margin: 978px 4.74% 50px auto;
+  position: relative;
+  width: 8px;
+}
+
+h1, h2, h4{
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+  border-width: 0;
+  opacity: 1;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+  align-items: normal;
+}
+
+button:hover{
+  cursor: pointer;    
+}
+
+body {
+  margin: 0;
+}
+
+
+
+
+
